@@ -23,6 +23,7 @@
 - Run the script, and it will periodically check the status of the website. If a change in status is detected, it will send an email notification.
 - [Use it with amazon web server or other webserver, Set a cronjob and this code will run after each 10 minutes or according to time you set. And if status of website changes anytimes in the day it will notify you using gmail.]
 
-
+## Output from aws:
+<img src="https://github.com/Surajchandraa/Website-status-check-and-notify-by-mail/blob/main/screenshots_of_output/1694707998134.jpg" width="400" height="600">
 
 
